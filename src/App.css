@@ -1,0 +1,114 @@
+
+#default{
+  position: relative;
+  left: 100px;
+}
+#btns{
+  position: relative;
+  left: 500px;
+
+
+}
+#h{
+  position: relative;
+  right:30px;
+  width: 100px;
+  height: 30px;
+  background-color: white;
+  border-color: rgb(212, 92, 241);
+  border-radius: 99pt;
+}
+#f{
+  position: relative;
+  left:30px;
+  width: 100px;
+  height: 30px;
+  background-color: white;
+  border-color: rgb(212, 92, 241);
+  border-radius: 99pt;
+
+}
+#a{
+  width: 100px;
+  height: 30px;
+  background-color: white;
+  border-color: rgb(212, 92, 241);
+  border-radius: 99pt;
+}
+#main{
+  position: relative;
+  left:700px;
+  bottom: 400px;
+}
+#py{
+  width: 100px;
+  height: 100px;
+  animation: rt 2s infinite;
+}
+#re{
+  width: 100px;
+  height: 100px;
+  animation: rt 2s infinite;
+}
+#rb{
+  position: relative;
+  left: 10px;
+  width: 80px;
+  height: 80px;
+  animation: rt 2s infinite;
+}
+
+
+@keyframes rt{
+  0%{transform: rotate(0deg);}
+  100%{transform: rotate(360deg);}
+}
+#card1{
+  
+
+  width: 300px;
+  height: 400px;
+
+}
+#rf{
+  border-radius: 99pt;
+}
+#dv{
+  width: 100px;
+  height: 70px;
+  border-radius: 19pt;
+}
+#gh{
+  width: 100px;
+  height: 100px;
+}
+#sn{
+  position: relative;
+  top:50px;
+}
+#ab{
+  width: 300px;
+}
+input{
+  width: 300px;
+  height: 30px;
+  border-radius:99pt ;
+  border-color: rgb(212, 92, 241);
+}
+#snd{
+  width: 100px;
+  height: 30px;
+  background-color: rgb(212, 92, 241);
+  color:white;
+  border:none;
+  border-radius: 9pt;
+
+}
+#sri{
+  width:150px;
+  height: 200px;
+  border-radius: 99pt;
+  border-color: rgb(212, 92, 241);
+  position: relative;
+  left: 100px;
+}
